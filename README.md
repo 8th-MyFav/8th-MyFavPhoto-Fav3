@@ -8,40 +8,6 @@
 |:----------|:----------|:----------|
 | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs) <br> ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss) <br> ![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=flat&logo=reactquery) | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express) <br> ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs) <br> ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma) <br> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql) | ![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat&logo=amazonaws) <br> ![Render](https://img.shields.io/badge/Render-000000?style=flat&logo=render) <br> ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel) |
 
-## 🛠 Tech Stack
-
-**Frontend:**  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss)
-![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=flat&logo=reactquery)
-
-**Backend:**  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql)
-
-**Infra & Deployment:**  
-![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat&logo=amazonaws)
-![Render](https://img.shields.io/badge/Render-000000?style=flat&logo=render)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel)
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express"/>
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql"/>
-  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat&logo=amazonaws"/>
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=flat&logo=reactquery"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss"/>
-  <img src="https://img.shields.io/badge/Render-000000?style=flat&logo=render"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel"/>
-</p>
-
-
 
 <br/>
 
