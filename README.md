@@ -157,14 +157,14 @@ npm start
 
 ## 🧑‍💻 팀 구성
 
-| 이름 | 역할 | GitHub | 상세 |
-| :-- | :-- | :-- | :-- |
-| **홍명주** | Team Lead & Backend | [@mjhong](https://github.com/MyeongjuHong) | [상세 보기](./team/mjhong.md) |
-| **조원정** | Backend Lead & DevOps | [@wonjeongjo](https://github.com/jwj2087) | [상세 보기](./team/wonjeongjo.md) |
-| **조성민** | Frontend Lead | [@seongmincho](https://github.com/sungminiioo) | [상세 보기](./team/seongmincho.md) |
-| **김성준** | Frontend | [@sungjunkim](https://github.com/Kimseongjun) | [상세 보기](./team/sungjunkim.md) |
-| **나주현** | Frontend | [@ariana](https://github.com/juhyunaria) | [상세 보기](./team/ariana.md) |
-| **홍승전** | Frontend | [@ariana](https://github.com/damiano1130) | [상세 보기](./team/ariana.md) |
+| 이름 | 역할 | GitHub |
+| :-- | :-- | :-- | 
+| **홍명주** | Team Lead & Backend | [@mjhong](https://github.com/MyeongjuHong) | 
+| **조원정** | Backend Lead & DevOps | [@wonjeongjo](https://github.com/jwj2087) | 
+| **조성민** | Frontend Lead | [@seongmincho](https://github.com/sungminiioo) | 
+| **김성준** | Frontend | [@sungjunkim](https://github.com/Kimseongjun) | 
+| **나주현** | Frontend | [@ariana](https://github.com/juhyunaria) |
+| **홍승전** | Frontend | [@ariana](https://github.com/damiano1130) |
 
 ---
 
